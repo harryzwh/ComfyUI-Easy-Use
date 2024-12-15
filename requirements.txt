@@ -2,7 +2,7 @@ diffusers
 accelerate
 clip_interrogator>=0.6.0
 lark-parser
-onnxruntime
+onnxruntime-gpu
 opencv-python
 sentencepiece
 spandrel
